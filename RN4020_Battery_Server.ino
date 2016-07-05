@@ -1,3 +1,7 @@
+// RN4020 battery server. 
+// by PCT / tom hsieh.
+// Board : Arduino M0 PRO ( MCU : ATSAMD21G18A, ARM Cortex M0+ ). 
+// IDE : Arduino 1.7.10 ( Arduino.ORG ).
 
 // Connect to Microchip RN4020 bluetooth LE module, presetting :
 // - buadrate 9600pbs.
